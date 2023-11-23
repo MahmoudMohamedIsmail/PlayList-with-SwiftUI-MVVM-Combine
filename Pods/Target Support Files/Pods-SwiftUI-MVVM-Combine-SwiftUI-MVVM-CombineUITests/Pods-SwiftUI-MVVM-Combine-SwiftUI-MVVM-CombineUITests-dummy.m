@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_SwiftUI_MVVM_Combine_SwiftUI_MVVM_CombineUITests : NSObject
+@end
+@implementation PodsDummy_Pods_SwiftUI_MVVM_Combine_SwiftUI_MVVM_CombineUITests
+@end
