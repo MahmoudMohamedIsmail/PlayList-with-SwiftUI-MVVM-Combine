@@ -4,5 +4,9 @@ A Playlist project that uses SwiftUI for UI, Combine for event handling, MVVM fo
 ## Demo
 Go to this path "PlayList-with-SwiftUI-MVVM-Combine/PlayList with SwiftUI-MVVM-Combine
 /Demo" then you find a demo video.
+![]([https://github.com/MahmoudMohamedIsmail/PlayList-with-SwiftUI-MVVM-Combine/assets/17162706/fbb7c934-6168-4cd3-9470-f9f179f84e35](https://github.com/MahmoudMohamedIsmail/PlayList-with-SwiftUI-MVVM-Combine/blob/main/PlayList%20with%20SwiftUI-MVVM-Combine/Demo/PlaylistDemo.mov)
 ## Screenshoot
-<img src="[https://your-image-url.type](https://github.com/MahmoudMohamedIsmail/PlayList-with-SwiftUI-MVVM-Combine/assets/17162706/b44cd2ba-7faf-42f5-8034-45f771de9f55)https://github.com/MahmoudMohamedIsmail/PlayList-with-SwiftUI-MVVM-Combine/assets/17162706/b44cd2ba-7faf-42f5-8034-45f771de9f55" width="350" height="750">
+![Simulator Screenshot - iPhone 15 Pro Max - 2023-11-23 at 05 41 03](https://github.com/MahmoudMohamedIsmail/PlayList-with-SwiftUI-MVVM-Combine/assets/17162706/fbb7c934-6168-4cd3-9470-f9f179f84e35)
+
+
+
